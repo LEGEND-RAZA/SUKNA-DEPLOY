@@ -2,7 +2,7 @@
   "name": "Levanter",
   "description": "",
   "keywords": ["nodejs"],
-  "repository": "https://github.com/LEGEND-RAZA/SUKNA-DEPLOY",
+  "repository": "https://github.com/pasquawisdom2007-beep/SUKUNA_MD/",
   "success_url": "/",
   "stack": "container",
   "env": {
